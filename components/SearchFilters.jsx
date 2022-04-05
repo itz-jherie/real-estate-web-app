@@ -24,7 +24,7 @@ const SearchFilters = () => {
           })
 
         router.push({ pathname: path, query });
-        console.log(path)
+        
     };
 
 
